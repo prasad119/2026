@@ -1,0 +1,11 @@
+{
+  "storageStatePractice": {
+    "addUser": {
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Ranga  Akunuri",
+      "userName": "Ranga  Akunuri",
+      "password": "Ranga@1234"
+    }
+  }  
+}

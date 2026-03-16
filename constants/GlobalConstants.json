@@ -1,0 +1,7 @@
+{
+  "baseURL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "dashboardURL": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+  "storageStatePath": "state.json",
+  "username": "Admin",
+  "password": "admin123"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "2026",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "lint": "eslint .",
+    "format": "npx prettier --write ."
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.0",
+    "@zerostep/playwright": "^0.1.5",
+    "eslint": "^10.0.0",
+    "eslint-plugin-playwright": "^2.5.1",
+    "zod": "^4.3.6"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "nodemailer": "^8.0.1"
+  }
+}

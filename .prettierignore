@@ -1,0 +1,5 @@
+#Ignore all HTM files
+<!-- **/*.html -->
+
+#Ignore specific directories
+README.md

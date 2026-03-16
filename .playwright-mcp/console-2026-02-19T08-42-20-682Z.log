@@ -1,0 +1,4 @@
+[   11146ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://login-uat.cbre.com/sso/idps/0oard8hs3kxyPGcdo0h7?stateTokenExternalId=Mm01NFZXcU9vc1ZIQjVvdWtuaXA3K3YxWUYySlp5bkY2U202ZkJDb2xaakxMdGp6YWYwWU9YR2tTZTdtV0tyNw:0
+[   12105ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://login.microsoftonline.com/favicon.ico:0
+[   13442ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://autologon.microsoftazuread-sso.com/0159e9d0-09a0-4edf-96ba-a3deea363c28/winauth/ssoprobe?client-request-id=0218e05f-0f9f-4690-86fe-1e4aab3a350e&_=1771490553630:0
+[   18238ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://sso.cbre.com/favicon.ico:0
